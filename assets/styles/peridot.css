@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(63, 70, 7);
+  }
+
+.container {
+  background-color: rgb(182, 228, 101);
+  border: 1px solid rgb(191, 254, 1);
+}
+
+.textbox {
+  background-color: rgb(221, 237, 185);
+  border: 1px solid rgb(64, 255, 0);
+}
+
+img{
+  height: 300px;
+}

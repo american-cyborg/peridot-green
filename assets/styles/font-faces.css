@@ -1,0 +1,48 @@
+@font-face {
+  src: url('../assets/fonts/soehne/soehne-buch.otf') format('opentype');
+  font-family: 'Soehne';
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  src: url('../fonts/sohne/sohne-buchkursiv.otf') format('opentype');
+  font-family: 'Sohne';
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  src: url('../fonts/sohne/sohne-halbfett.otf') format('opentype');
+  font-family: 'Sohne';
+  font-weight: 600;
+  font-style: bold;
+}
+
+@font-face {
+  src: url('../assets/fonts/jjannon/jjannon-regular.otf') format('opentype');
+  font-family: 'JJannon';
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  src: url('../fonts/jjannon/jjannon-italic.otf') format('opentype');
+  font-family: 'JJannon';
+  font-weight: 400;
+  font-weight: italic;
+}
+
+@font-face {
+  src: url('../fonts/jjannon/jjannon-bold.otf') format('opentype');
+  font-family: 'JJannon';
+  font-weight: 600;
+  font-style: bold;
+}
+
+@font-face {
+  src: url('../fonts/jjannon/jjannon-bolditalic.otf') format('opentype');
+  font-family: 'JJannon';
+  font-weight: 600;
+  font-style: bold, italic;
+}

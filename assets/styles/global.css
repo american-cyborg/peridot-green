@@ -1,0 +1,43 @@
+body {
+    font-family: 'JJannon';
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3{
+    font-style:italic;
+}
+
+p{
+    width: 400px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+ul {
+    width: 200px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.sigil {
+    width: 200px;
+    height: auto;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px;
+}
+
+.textbox{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+

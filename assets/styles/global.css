@@ -1,43 +1,65 @@
+
 body {
-    font-family: 'JJannon';
+    font-family: 'Andale Mono';
     margin: 0 auto;
-    text-align: center;
+}
+
+h1{
+    font-size: 32pt;
 }
 
 h3{
     font-style:italic;
-}
-
-p{
-    width: 400px;
-    text-align: left;
-    margin: 0 auto;
-}
-
-ul {
-    width: 200px;
-    text-align: left;
-    margin: 0 auto;
+    font-size: 16pt;
 }
 
 .sigil {
     width: 200px;
     height: auto;
-}
-
-.container{
-    width: 80%;
     margin: 0 auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    padding: 50px;
 }
 
-.textbox{
+.fancy{
     width: 80%;
+    height: auto;
     margin: 0 auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 50px;
+}
+.thumb{
+  width: 200px;
+  height: auto;
 }
 
+.first-bar{
+    position: fixed;
+    padding: 1%;
+    left: 0;
+    height: 100%;
+    width: 18%;
+    border-right: 1pt black solid;
+    text-align: center;
+}
+
+.second-bar{
+    position: fixed;
+    padding: 1%;
+    left: 20%;
+    height: 100%;
+    width: 8%;
+    border-right: 1pt black solid;
+    text-align: right;
+}
+
+.display{
+    position: absolute;
+    padding-left: 1%;
+    height:100%;
+    width: 70%;
+    left: 30%;
+}
+
+@font-face {
+  src: url('andale-mono.ttf') format('truetype');
+  font-family: 'Andale';
+  font-weight: 400;
+  font-style: normal;
+}
